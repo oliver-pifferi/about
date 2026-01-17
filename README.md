@@ -1,10 +1,10 @@
 ### Hello there! 👋
-I am a Dad and a restless spirit. A Cloud-Addict with a strong focus on Security and Free Software. I prefer  at Home and Linux around. I am a convinced -Fanboy, and, besides, love Metal of all kind, Travelling, Photographing, Reading and Blogging.
+I am a Dad and a restless spirit. A Cloud-Addict with a strong focus on Security and Free Software. I prefer  and Linux at home and wish I could use these at work, too. I am a convinced -Fanboy, and, besides, love Metal of all kind, Travelling, Photographing, Reading and Blogging.
 
 - 🔭 Always working on articles and in-depths that are related to the OS above and all Cloud-driven solutions with privacy in mind
 - 🌱 Always learning, trying to get the big whole
 - 🪂 Often disjointed but easy to thrill when it comes to discover something new
-- Currently exploring the Fediverse with <a rel="me" href="https://social.pifferi.io/@oliver">Mastodon</a>, <a href="https://photos.skumring.com/@oliver">Vernissage</a> and <a href="https://tube.pifferi.io/c/oliverpifferi/videos">PeerTube</a>
+- Currently exploring the Fediverse with <a rel="me" href="https://metalized.net/@oliver">Mastodon</a>, <a href="https://zerosignal.eu/@oliver">Vernissage</a> and <a href="https://tube.pifferi.io/c/oliverpifferi/videos">PeerTube</a>
 - Find my <a href="https://keyoxide.org/AF953733C09F6368797CA49E2F4968B5F7988AA5">Keyoxide</a>-profile & key <a href="https://keyoxide.org/AF953733C09F6368797CA49E2F4968B5F7988AA5">here</a>!
 
 ## Support me
